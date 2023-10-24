@@ -26,4 +26,4 @@ If you'd like to get involved with GoSec Cloud or have any questions, please don
     GitHub: https://git.gosec.cloud
     Web: https://www.gosec.cloud/community
 
-Together, we can create a "Privacy First" cloud solution that revolutionizes how we store and utilize data in the cloud. Join us and shape the future of the cloud with [Project Name]!
+Together, we can create a "Privacy First" cloud solution that revolutionizes how we store and utilize data in the cloud. Join us and shape the future of the cloud with GoSec Cloud!
