@@ -17,13 +17,13 @@ We invite developers, privacy advocates, and cloud enthusiasts to engage with Go
     Development: Help us shape and expand GoSec Cloud by working on the codebase.
     Documentation: Assist us in creating documentation to help others use and develop GoSec Cloud.
     Feedback: Share your ideas and feedback with us. Your opinion is valuable to us!
-    Spread the Word: Tell others about [Project Name] to help our community grow.
+    Spread the Word: Tell others about GoSec Cloud to help our community grow.
 
 Contact
 If you'd like to get involved with GoSec Cloud or have any questions, please don't hesitate to contact us:
 
     Email: GetInvolved@gosec.cloud
-    GitHub: [Link to Your GitHub Profile]
+    GitHub: https://git.gosec.cloud
     Web: https://www.gosec.cloud/community
 
 Together, we can create a "Privacy First" cloud solution that revolutionizes how we store and utilize data in the cloud. Join us and shape the future of the cloud with [Project Name]!
