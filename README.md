@@ -1,6 +1,6 @@
 <h2>Secure and Transparent: A "Privacy First" Cloud Solution</h2>
 
-<img src="https://assets.gosec.cloud/gsc/images/logo/gsc_logo_picture.png" style="width:150px">
+<img src="https://surveillance.gosec.cloud/images/logo.png" style="width:150px">
 
 <h1>Welcome to GoSec Cloud</h1>
 
@@ -25,6 +25,5 @@ We invite developers, privacy advocates, and cloud enthusiasts to engage with Go
 If you'd like to get involved with GoSec Cloud or have any questions, please don't hesitate to contact us:
 
     Email: GetInvolved@gosec.cloud
-    GitHub: https://git.gosec.cloud
     
 Together, we can create a "Privacy First" cloud solution that revolutionizes how we store and utilize data in the cloud. Join us and shape the future of the cloud with GoSec Cloud!
